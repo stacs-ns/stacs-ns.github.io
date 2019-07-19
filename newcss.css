@@ -1,0 +1,55 @@
+.bgfil
+{
+    background-color: rgba(173, 216, 230,0.7);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: -20px;
+    padding-right: -20px;
+    
+}
+
+.logoim11
+{
+    max-height: 30%;
+    max-width: 30%;
+    background-color: transparent;
+
+}
+.logoim12
+{
+    max-height: 40%;
+    max-width: 40%;
+    background-color: transparent;
+    float:left;
+}
+.topleft{
+    position: absolute;
+    
+  top: 8px;
+  left: 16px;
+  font-size: 18px;
+  display: block;
+  width: 30%;
+}
+.topright {
+    float: right;
+    position: absolute;
+  top: 0px;
+  right: 0px;
+  font-size: 18px;
+      display: block;
+    width: 30%;
+
+}
+.icon-bar {
+  color: white;
+  border-color: white;
+  background-color: white;
+}
+.navbar-fixed-top{
+    width:1200px;
+    left:20%;
+}
+li a{
+    color:white;
+}
